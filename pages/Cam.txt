@@ -1,1 +1,1 @@
-new cam cam
+new cam cam camera
