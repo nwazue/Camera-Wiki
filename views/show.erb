@@ -3,5 +3,10 @@
 <p><%= @content %></p>
 
 <div>
+    <a href="/">Home Page</a>
     <a href="/<%= @title %>/edit">Edit This Page</a>
+    <form method="post" action="/<%= @title %>">
+        <input type="hidden" name="_method" value="delete">
+        <input type="submit" value="Delete This Page">
+    </form>
 </div>

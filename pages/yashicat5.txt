@@ -1,6 +1,0 @@
-Yashica T5
-
-Format: 35mm
-Point and Shoot Camera 
-Aperature: 3.5
-Focal Length: 35mm

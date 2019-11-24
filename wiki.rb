@@ -47,3 +47,9 @@ put "/:title" do
   redirect URI.escape("/#{params["title"]}")
 end
 
+delete "/:title" do
+  delete_content(params[:title])
+  redirect "/"
+end
+
+
