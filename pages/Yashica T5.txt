@@ -1,6 +1,11 @@
+<img src="https://d2h1pu99sxkfvn.cloudfront.net/b0/4573675/361655477_wRoaI1l78P/P0.jpg" style="width:400px;height:400px;"> 
+<htmml>
+<body>
 <p>Format: 35mm</p>
 <p>Point and Shoot Camera</p>
 <p>Aperture: f/3.5</p>
 <p>Focal Length: 35mm</p>
 
 <p>This camera has been my go to camera since I started film photography. It has been used for portrait sessions, travel and daily documenting and given me some of my favorite photographs. I love the Carl Zeiss lens on this camera and it produces very unique results that are specific to this lens manufacturer. The weight of this camera is perfect and is not too heavy but also does not feel like it's a cheap camera.</p>
+</body>
+</html>
